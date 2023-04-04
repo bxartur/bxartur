@@ -2,7 +2,7 @@
 My name is Artur and I've recently graduated with bachelor's degree in bioinformatics on University of Gdańsk.
 Currently I'm looking for interesting opportunities to gain new IT experience and develop new skills.
 
-### Languages and Tools:
+### Languages and Tools that I use:
 
 <div align="left">
 I feel really confident with Python, in which I coded most of the time (from simple games to Machine Learning analyses).
