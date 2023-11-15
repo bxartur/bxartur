@@ -1,6 +1,6 @@
 ## Hello
 My name is Artur and I've recently graduated with bachelor's degree in bioinformatics on University of Gdańsk.
-Currently I'm looking for interesting opportunities to gain new IT experience and develop new skills.
+Currently, I’m working towards gaining Master’s degree and searching for an interesting option of continuing my professional career.
 
 ### Languages and Tools that I use:
 
@@ -18,6 +18,7 @@ Additionally I used to work with:
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>
 
 
